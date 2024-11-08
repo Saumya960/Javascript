@@ -1,4 +1,4 @@
-'use strict'
+'use strict';
 
 const leapYear = prompt('Enter a year')
 const year = Number(leapYear);

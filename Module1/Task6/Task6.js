@@ -1,4 +1,4 @@
-'use strict'
+'use strict';
 
 const answer = confirm('Should I calculate the square root?');
 const resultElement = document.getElementById('result');

@@ -1,4 +1,4 @@
-'use strict'
+'use strict';
 
 const startYear = prompt('Enter starting year')
 const endYear = prompt('Enter ending year')

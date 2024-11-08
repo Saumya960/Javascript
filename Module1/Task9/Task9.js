@@ -1,4 +1,4 @@
-'use strict'
+'use strict';
 
 const userInput = prompt("Enter an integer:");
 const number = Number(userInput);
