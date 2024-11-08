@@ -27,7 +27,7 @@ window.onload = function sortStudent() {
             house = "Ravenclaw";
             break;
         default:
-            house = "Unknown House"; // This should never happen
+            house = "Unknown House";
     }
 
     document.getElementById("result").innerText = `${name}, you are ${house}!`;
