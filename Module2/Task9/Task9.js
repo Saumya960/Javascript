@@ -9,6 +9,6 @@ function even(arr) {
   return evenNumbers;
 }
 
-const numbers = [ 2,347,364,3, 7899, 3536, 67, 89, 3];
+const numbers = [ 2, 17, 34, 3, 49, 36, 67, 89, 3];
 console.log(numbers);
 console.log(even(numbers));
