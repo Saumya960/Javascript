@@ -1,4 +1,4 @@
-'use strict'
+'use strict';
 function even(arr) {
   const evenNumbers = [];
   for (const number of arr) {
