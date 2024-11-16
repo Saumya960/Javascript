@@ -1,0 +1,12 @@
+.my-list {
+  background-color: rgb(211, 62, 62);
+  color: #fff;
+}
+.button {
+            padding: 10px;
+            background-color: #00005d;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
