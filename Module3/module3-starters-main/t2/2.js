@@ -1,4 +1,4 @@
-// module 3
+'use strict';
 const target = document.getElementById('target');
 
 const body = `
